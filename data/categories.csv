@@ -2,27 +2,27 @@ id,name,description,file
 alternative-media,Alternative Media,Independent and non-mainstream media sources,alternative-media.csv
 archeology,Archeology,Ancient civilizations and historical discoveries,archeology.csv
 astronomy,Astronomy,Space and cosmology,astronomy.csv
-books,Books,Important books and reading sources,books.csv
+books,Books,"Books, reading resources, and educational materials",books.csv
 design-arts,Design Arts,Creative and visual arts,design-arts.csv
-exercise,Exercise,Physical training and fitness,exercise.csv
-fringe-covert,Fringe & Covert,Hidden, controversial, or unconventional topics,fringe-covert.csv
+physical-training,Physical Training,Physical training and fitness,physical-training.csv
+fringe-covert,Fringe & Covert,"Hidden, controversial, or unconventional topics",fringe-covert.csv
 futurism,Futurism,Future trends and emerging technologies,futurism.csv
 health,Health,General health and wellbeing,health.csv
 interviews,Interviews,Long-form discussions and interviews,interviews.csv
 life-people,Life & People,Human stories and personal development,life-people.csv
-mentor-advisory,Mentor & Advisory,Guidance, mentorship, and advisory content,mentor-advisory.csv
+mentor-advisory,Mentor & Advisory,"Guidance, mentorship, and advisory content",mentor-advisory.csv
 mindset,Mindset,Thinking frameworks and mental models,mindset.csv
 modern-psychology,Modern Psychology,Contemporary psychological insights,modern-psychology.csv
 motorcycle-training,Motorcycle Training,Riding techniques and safety,motorcycle-training.csv
 music,Music,Music and audio culture,music.csv
 neuroscience,Neuroscience,Brain science and cognition,neuroscience.csv
 physiology,Physiology,Human body systems and functions,physiology.csv
-political-comedians,Political Comedians,Comedy with political commentary,political-comedians.csv
+politics,Politics,Political commentary,politics.csv
 psychology,Psychology,General psychology topics,psychology.csv
 sacred-geometry,Sacred Geometry,Mathematical and symbolic patterns,sacred-geometry.csv
 science,Science,Scientific knowledge and discoveries,science.csv
 society,Society,Social structures and dynamics,society.csv
 sociopolitics,Sociopolitics,Intersection of society and politics,sociopolitics.csv
 spirituality,Spirituality,Spiritual traditions and practices,spirituality.csv
-statistics,Statistics,Data, probability, and analysis,statistics.csv
+statistics,Statistics,"Data, probability, and analysis",statistics.csv
 unorthodox-arts,Unorthodox Arts,Experimental and unconventional art,unorthodox-arts.csv
